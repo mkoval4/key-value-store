@@ -1,5 +1,5 @@
 
-# MP2 README - Fault-Tolerant Key-Value Store
+#Fault-Tolerant Key-Value Store
 
 ## About the MP1Node.h and MP1Node.cpp files in MP2
 
